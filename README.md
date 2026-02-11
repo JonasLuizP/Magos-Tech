@@ -189,9 +189,3 @@ Este projeto foi desenvolvido **exclusivamente para fins acadêmicos e de pesqui
 Ele **não substitui** diagnóstico médico profissional, laudos radiológicos ou decisões clínicas.
 
 ---
-
-Se quiser, posso agora:
-
-* Ajustar para inglês
-* Criar versão mais curta para apresentação
-* Criar README técnico para banca ou professor
